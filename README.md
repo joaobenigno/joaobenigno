@@ -4,11 +4,15 @@
 
 ## About Me
 
-My name is João Benigno, I'm currently 16 years old and I'm starting my career in programming. In 2018 I already worked without pay as a designer, but only in 2020 did I get interested and get closer to web programming. Among my goals is to become a full-stack mobile and web app developer and build my brand in the programming world.
+<p align="justify"> My name is João Benigno, I'm currently 16 years old and I'm starting my career in programming. In 2018 I already worked without pay as a designer, but only in 2020 did I get interested and get closer to web programming. Among my goals is to become a full-stack mobile and web app developer and build my brand in the programming world.
 
 - 💻 I'm Front-end Developer.
 - 📚 I’m currently studying JavaScript.
-- 📪 From Belo Horizonte, Brazil
+- 📪 From Belo Horizonte, Brazil</p>
+
+  <br><br><br><br>
+  
+## My Github Status
 
 <div>
   <a href="https://github.com/joaobenigno">
