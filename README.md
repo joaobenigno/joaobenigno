@@ -1,6 +1,6 @@
 <h1> Hi, my name is João Benigno and i'm a developer! </h1>
 
-<img src="https://media.discordapp.net/attachments/838622918585090079/870666348852805702/drink-coffee-resize-unscreen.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="">
+<img src="https://cdn.discordapp.com/attachments/842063204698816582/870667943892099102/a9b1211e4363b7f0462737d83a9eaefd.png" min-width="300px" max-width="300px" width="300px" align="right" alt="">
 
 ## About Me
 
