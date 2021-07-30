@@ -1,6 +1,6 @@
 <h1> Hi, my name is João Benigno and i'm a developer! </h1>
 
-<img src="https://cdn.discordapp.com/attachments/842063204698816582/870667943892099102/a9b1211e4363b7f0462737d83a9eaefd.png" min-width="300px" max-width="300px" width="300px" align="right" alt="">
+<img src="https://cdn.discordapp.com/attachments/842063204698816582/870675303641518140/Programming-amico.png" min-width="300px" max-width="300px" width="300px" align="right" alt="">
 
 ## About Me
 
@@ -10,8 +10,16 @@
 - 📚 I’m currently studying JavaScript.
 - 📪 From Belo Horizonte, Brazil</p>
 
-  <br><br><br><br>
+  <br>
   
+## Technologies
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+
 ## My Github Status
 
 <div>
