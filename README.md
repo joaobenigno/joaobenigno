@@ -1,4 +1,4 @@
-<h1 align="center"> Hi! My name is João Benigno and i'm a Programmer </h1>
+<h1 align="left"> Hi, my name is João Benigno! </h1>
 
 <img src="https://isometric.online/wp-content/uploads/2019/07/Coding_SVG.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="">
 
