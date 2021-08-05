@@ -1,6 +1,6 @@
 <h1> Hi, my name is João Benigno and i'm a developer! </h1>
 
-<img src="https://cdn.discordapp.com/attachments/842063204698816582/870675303641518140/Programming-amico.png" min-width="300px" max-width="300px" width="300px" align="right" alt="">
+<img src="https://cdn.discordapp.com/attachments/842063204698816582/870675303641518140/Programming-amico.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Programming">
 
 ## About Me
 
@@ -9,7 +9,6 @@
 - 💻 I'm Front-end Developer.
 - 📚 I’m currently studying JavaScript and TypeScript.
 - 📪 From Belo Horizonte, Brazil</p>
-
 <br>
 
 ## My Github Status
