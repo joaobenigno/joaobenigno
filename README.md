@@ -1,4 +1,4 @@
-<h1> Hi, my name is João Benigno and i'm a developer! </h1>
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ADBAC7&width=550&lines=Hi%2C+my+name+is+Jo%C3%A3o+Benigno+and+i'm+a+developer!)](https://git.io/typing-svg)
 
 <img src="https://cdn.discordapp.com/attachments/842063204698816582/870675303641518140/Programming-amico.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Programming">
 
