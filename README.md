@@ -6,7 +6,7 @@
 
 <p align="justify"> My name is João Benigno, I'm currently 16 years old and I'm starting my career in programming. In 2018 I already worked without pay as a designer, but only in 2020 did I get interested and get closer to web programming. Among my goals is to become a full-stack mobile and web app developer and build my brand in the programming world.
 
-- 💻 I'm Front-end Developer.
+- 💻 I'm full-stack developer, but my main programming language is php.
 - 📚 I’m currently studying JavaScript and TypeScript.
 - 📪 From Belo Horizonte, Brazil</p>
 <br>
@@ -26,6 +26,7 @@
   <img align="center" alt="HTML 5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS 3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="jQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
   <img align="center" alt="PHP 8" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   
@@ -46,6 +47,5 @@
 <div> 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-benigno-41671a200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/joaobenigno_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/joaobenigno_" rel="nofollow"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="max-width:100%;"></a>
   <a href = "mailto:contato.joaobenigno@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
