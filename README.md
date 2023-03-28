@@ -6,7 +6,7 @@
 
 <p align="justify"> My name is João Benigno, I'm currently 16 years old and I'm starting my career in programming. In 2018 I already worked without pay as a designer, but only in 2020 did I get interested and get closer to web programming. Among my goals is to become a full-stack mobile and web app developer and build my brand in the programming world.
 
-- 💻 I'm full-stack developer, but my main programming language is php.
+- 💻 I'm full-stack developer, but my main programming language is PHP.
 - 📚 I’m currently studying JavaScript and TypeScript.
 - 📪 From Belo Horizonte, Brazil</p>
 <br>
